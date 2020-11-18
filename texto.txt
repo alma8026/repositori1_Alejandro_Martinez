@@ -1,1 +1,2 @@
 Fitxer Martínez_Alejandro que el copiarem a github
+Afegeixo linea desde el repositori local
